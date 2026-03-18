@@ -1,0 +1,55 @@
+dist_1.5
+clusterizador.py
+descobrir.py
+models
+venv_centaurus
+venv_new
+verificacoes
+build
+dist
+
+BUILD_GUIDE.md
+BUILD_INSTALLER.md
+COMPILACAO_INFO.md
+Centaurus2.0_setup.exe
+GUIA_MIGRACAO.md
+LEIA-ME_CABINES.md
+LICENSE.txt
+MELHORIAS_DIALOG.md
+OLD/
+QUICKSTART_INSTALLER.md
+README.txt
+README_V2.md
+REFATORACAO_CONCLUIDA.md
+__pycache__/centaurus_com_cabines.cpython-310.pyc
+__pycache__/centaurus_completo.cpython-310.pyc
+__pycache__/config_manager.cpython-310.pyc
+__pycache__/configurador_cabine.cpython-310.pyc
+__pycache__/database_manager.cpython-310.pyc
+__pycache__/main.cpython-310.pyc
+build_exe.py
+build_installer.py
+patch_notes.py
+
+# Python virtual environments
+.venv/
+.venv310/
+venv/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local outputs and datasets (large)
+pares agosto centaurus/
+pares agosto centaurus.zip
+imagens_extraidas/
+separacao_20260304_134628/
+installer_output/
+estudo_auraface_out_*/
+
+# OS/editor artifacts
+desktop.ini
+*.log

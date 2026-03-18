@@ -1,0 +1,48 @@
+# Centaurus 3.0 - Requirements
+# Sistema de Verificação Facial com AuraFace (Apache 2.0)
+
+# ==================== Core Dependencies ====================
+
+# Computer Vision
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# Face Recognition (AuraFace via InsightFace)
+insightface==0.7.3
+onnxruntime==1.17.1
+
+# Model Download
+huggingface_hub
+
+# ==================== Interface ====================
+
+# GUI Framework
+ttkbootstrap
+
+# Image Processing
+Pillow
+
+# ==================== System ====================
+
+# Screenshot
+pyautogui
+
+# Windows Integration
+pywin32
+
+# System Information
+psutil
+
+# ==================== Security ====================
+
+# Encryption
+cryptography
+
+# ==================== Database ====================
+# sqlite3 is included in Python standard library
+
+# ==================== Development (Optional) ====================
+# Uncomment for development
+
+# pyinstaller  # Para compilar executável
+
